@@ -31,3 +31,8 @@ ShopList is a simple iOS app built with **Swift** and **UIKit** that fetches and
    ```bash
    git clone https://github.com/rkadithya/ShopList.git
    cd ShopList
+
+## 🎥 Screen Recording
+
+![iphone](https://github.com/user-attachments/assets/73cb4817-7a85-46fc-9f1b-4d6ac8f30dc3)
+
