@@ -28,5 +28,5 @@ _(Add screenshots here if available)_
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ShopList.git
+   git clone https://github.com/rkadithya/ShopList.git
    cd ShopList
