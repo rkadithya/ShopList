@@ -22,7 +22,8 @@ ShopList is a simple iOS app built with **Swift** and **UIKit** that fetches and
 
 ## 📷 Screenshots
 
-_(Add screenshots here if available)_
+![ss](https://github.com/user-attachments/assets/dfa9e84c-edd1-4860-87d1-13ea21d5e7ee)
+
 
 ## 📦 Setup
 
